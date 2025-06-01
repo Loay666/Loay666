@@ -1,4 +1,4 @@
-<h1 align="center">Louay Mohamed</h1>
+<h1 align="center">Loay Mohamed</h1>
 <p align="center">
   <strong>Cybersecurity Student | Cloud & Application Security Enthusiast</strong><br/>
   Focused on building deep, practical expertise through a structured roadmap.
