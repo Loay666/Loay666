@@ -1,4 +1,25 @@
-<h2 align="left">Hi 👋! My name is Loay and I'm a software developer, from Egypt.</h2>
+<h1 align="center">Louay Mohamed</h1>
+<p align="center">
+  <strong>Cybersecurity Student | Cloud & Application Security Enthusiast</strong><br/>
+  Focused on building deep, practical expertise through a structured roadmap.
+</p>
+
+---
+
+## 🔒 About Me
+
+I'm a computer science student with a clear focus: mastering **Cloud & Application Security**. I believe in structured execution, practical skills, and real-world impact. Every step in my journey is documented, versioned, and intentional.
+
+- 🎯 Career Goal: Become a highly-skilled, in-demand security professional by 2026
+- 💻 Strong foundation in Linux, networking, and scripting
+- 🧠 Passion for breaking and securing systems
+- 🚀 Combining offensive and defensive skills to build full-spectrum capabilities
+
+## 🛠️ Work in Progress
+
+- GitHub repos for each learning phase
+- Labs documented in Markdown with screenshots, PoCs, and reflections
+- Repositories coming soon...
 
 ###
 
